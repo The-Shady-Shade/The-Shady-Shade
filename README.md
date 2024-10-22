@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on a new game (2.5D Boomer-Shooter).<br>I’m looking to collaborate on my further games.<br>I’m looking for help with 2D art and design.<br>I’m currently learning Godot, GameMaker Studio 2 and C++.
+I’m currently working on a new game (2.5D Boomer-Shooter).<br>I’m looking to collaborate on my further games.<br>I’m looking for help with 2D art and animations.<br>I’m currently learning Godot, GameMaker Studio 2 and C++.
 
 
 ## Socials:
