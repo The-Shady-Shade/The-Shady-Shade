@@ -17,7 +17,9 @@ I’m currently working on a new game (2.5D Boomer-Shooter).<br>I’m looking to
 ---
 [![](https://visitcount.itsvg.in/api?id=The-Shady-Shade&icon=2&color=6)](https://visitcount.itsvg.in)
 
+<!--
 ## You can help me by Donating
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ShadyShade) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ShadyShade)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
