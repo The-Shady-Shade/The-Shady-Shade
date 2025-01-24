@@ -1,5 +1,5 @@
 # About Me:
-Currently working on a new game (Godot 2.5D Boomer-Shooter).<br>
+Currently working on a new game (Godot Fast-Paced Boomer-Shooter).<br>
 Looking for help with 2D, 3D art and animations.<br>
 Learning GameMaker Studio 2, Godot and C++.<br>
 
