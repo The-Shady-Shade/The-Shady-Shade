@@ -5,8 +5,7 @@ Currently working on a new game (Godot Fast-Paced Boomer-Shooter).<br>
 Looking for help with 2D, 3D art and animations.<br>
 Learning GameMaker Studio 2, Godot and C++.<br>
 
-<img src="https://i.pinimg.com/originals/8d/df/a8/8ddfa888e1191436592c00c7ed700844.gif" alt="drawing" height="375"/>
-<img src="https://i.pinimg.com/originals/af/34/c3/af34c3d8fd9a3a823fe0e567f9ee2693.gif"/>
+<img src="https://i.pinimg.com/originals/8d/df/a8/8ddfa888e1191436592c00c7ed700844.gif">
 
 # GitHub Stats:
 ![](https://github-profile-trophy.vercel.app/?username=The-Shady-Shade&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)<br/>
@@ -22,5 +21,4 @@ Learning GameMaker Studio 2, Godot and C++.<br>
 -->
 
 </div>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
