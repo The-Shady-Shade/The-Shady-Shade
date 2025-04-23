@@ -1,12 +1,19 @@
 <div id="header" align="center">
-  
-# About Me:
-Currently working on a new game (Godot Fast-Paced Boomer-Shooter).<br>
-Looking for help with 2D, 3D art and animations.<br>
-Learning GameMaker Studio 2, Godot and C++.<br>
 
-<img src="https://i.pinimg.com/originals/8d/df/a8/8ddfa888e1191436592c00c7ed700844.gif">
+**Love games, make games** 🎮
 
+Check out my Itch.io: https://theshadyshade.itch.io/  
+My Telegram: https://t.me/The_Shady_Shade
+
+**Game Engine:** Godot & GameMaker Studio 2  
+**Pixel Art:** Aseprite  
+**3D Art:** Blender  
+**Music:** FL Studio  
+**SFX:** Bfxr
+
+![ShadyShadeLogo](https://github.com/user-attachments/assets/36023448-491c-45f8-bd24-33a446cd5841)
+
+<!--
 # GitHub Stats:
 ![](https://github-profile-trophy.vercel.app/?username=The-Shady-Shade&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=The-Shady-Shade&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
