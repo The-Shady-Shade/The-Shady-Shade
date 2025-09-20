@@ -5,13 +5,13 @@
 Check out my Itch.io: https://theshadyshade.itch.io/  
 My Telegram: https://t.me/The_Shady_Shade
 
-**Game Engine:** Godot & GameMaker Studio 2  
+**Game Engine:** Godot  
 **Pixel Art:** Aseprite  
 **3D Art:** Blender  
 **Music:** FL Studio  
 **SFX:** Bfxr
 
-![ShadyShadeLogo](https://github.com/user-attachments/assets/36023448-491c-45f8-bd24-33a446cd5841)
+<img width="600" alt="image" src="https://i.pinimg.com/originals/c6/ea/8e/c6ea8e9623abb4ca57e0594e5766c872.gif"/>
 
 <!--
 # GitHub Stats:
