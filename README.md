@@ -1,31 +1,40 @@
 <div id="header" align="center">
-
-**Love games, make games** 🎮
-
-Check out my Itch.io: https://theshadyshade.itch.io/  
-My Telegram: https://t.me/The_Shady_Shade
-
-**Game Engine:** Godot  
-**Pixel Art:** Aseprite  
-**3D Art:** Blender  
-**Music:** FL Studio  
-**SFX:** Bfxr
-
-<img width="600" alt="image" src="https://i.pinimg.com/originals/c6/ea/8e/c6ea8e9623abb4ca57e0594e5766c872.gif"/>
-
-<!--
-# GitHub Stats:
-![](https://github-profile-trophy.vercel.app/?username=The-Shady-Shade&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)<br/>
-![](https://github-readme-stats.vercel.app/api?username=The-Shady-Shade&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=The-Shady-Shade&theme=tokyonight&hide_border=true)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=The-Shady-Shade&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!--
-## You can help me by Donating
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ShadyShade) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ShadyShade)
--->
-
+<br><br><img alt="ShadyShadeWideLogoBigT" src="https://github.com/user-attachments/assets/9cd8fee4-9e91-42d5-abec-8d110499a5d9" /><br><br>
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# Games  
+
+### [GunShift](https://theshadyshade.itch.io/gunshift)
+  "Collect weapon modifications, combine them and see what happens!"  
+  [GitHub Repository](https://github.com/The-Shady-Shade/GunShift)  
+  Made during [Ludum Dare 58](https://ldjam.com/events/ludum-dare/58/gunshift)
+  
+### [Tiny Tinker](https://theshadyshade.itch.io/tiny-tinker)
+  "Jump into a big robot to fix him!"  
+  [GitHub Repository](https://github.com/The-Shady-Shade/Tiny-Tinker)  
+  Made during [Ludum Dare 57](https://ldjam.com/events/ludum-dare/57/tiny-tinker)
+  
+### [Shadow of Light](https://theshadyshade.itch.io/shadow-of-light)
+  "Hide in the shadows for the sake of light!"  
+  © All Rights Reserved  
+  
+### [TechRace](https://theshadyshade.itch.io/techrace)
+  "Race upon the neon light!"  
+  [GitHub Repository](https://github.com/The-Shady-Shade/TechRace)
+
+
+
+# Socials
+
+* [Itch.io](https://theshadyshade.itch.io/)   
+* [Telegram](https://t.me/The_Shady_Shade)
+
+
+
+# Tools
+
+* **Game Engine** - [Godot](https://godotengine.org/)  
+* **2D Art** - [Aseprite](https://www.aseprite.org/)  
+* **3D Art** - [Blender](https://www.blender.org/)  
+* **Music** - [FL Studio](https://www.image-line.com/fl-studio)  
+* **SFX** - [ChipTone](https://sfbgames.itch.io/chiptone)
