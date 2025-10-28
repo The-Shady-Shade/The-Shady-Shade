@@ -4,21 +4,21 @@
 
 # Games  
 
-## [GunShift](https://theshadyshade.itch.io/gunshift)
+### [GunShift](https://theshadyshade.itch.io/gunshift)
   "Collect weapon modifications, combine them and see what happens!"  
   [GitHub Repository](https://github.com/The-Shady-Shade/GunShift)  
   Made during [Ludum Dare 58](https://ldjam.com/events/ludum-dare/58/gunshift)
   
-## [Tiny Tinker](https://theshadyshade.itch.io/tiny-tinker)
+### [Tiny Tinker](https://theshadyshade.itch.io/tiny-tinker)
   "Jump into a big robot to fix him!"  
   [GitHub Repository](https://github.com/The-Shady-Shade/Tiny-Tinker)  
   Made during [Ludum Dare 57](https://ldjam.com/events/ludum-dare/57/tiny-tinker)
   
-## [Shadow of Light](https://theshadyshade.itch.io/shadow-of-light)
+### [Shadow of Light](https://theshadyshade.itch.io/shadow-of-light)
   "Hide in the shadows for the sake of light!"  
   © All Rights Reserved  
   
-## [TechRace](https://theshadyshade.itch.io/techrace)
+### [TechRace](https://theshadyshade.itch.io/techrace)
   "Race upon the neon light!"  
   [GitHub Repository](https://github.com/The-Shady-Shade/TechRace)
 
