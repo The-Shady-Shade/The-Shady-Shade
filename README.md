@@ -4,6 +4,11 @@
 
 # Games  
 
+### [StarLine Express Co.](https://theshadyshade.itch.io/starline-express-co)
+  "StarLine Express - Сonnecting the Stars"  
+  © All Rights Reserved  
+  Made during [GMTK Game Jam 2026](https://itch.io/jam/gmtk-jam-2026/rate/4806375)
+
 ### [RETURN//NULL](https://theshadyshade.itch.io/return-null)
   "Follow the signal into the void - not everything is meant to return..."  
   [GitHub Repository](https://github.com/The-Shady-Shade/RETURN-NULL)  
