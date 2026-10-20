@@ -2,7 +2,19 @@
 <br><br><img alt="ShadyShadeWideLogoBigT" src="https://github.com/user-attachments/assets/9cd8fee4-9e91-42d5-abec-8d110499a5d9" /><br><br>
 </div>
 
+# Socials
+
+* **[Itch.io](https://theshadyshade.itch.io/)**   
+* **[Telegram](https://t.me/The_Shady_Shade)**
+
+
+
 # Games  
+
+### [SYSTEM-1987](https://theshadyshade.itch.io/system-1987)
+  "You were never supposed to wake up."  
+  [GitHub Repository](https://github.com/The-Shady-Shade/SYSTEM-1987)  
+  Made during [Ludum Dare 60](https://ldjam.com/events/ludum-dare/60/system-1987)
 
 ### [StarLine Express Co.](https://theshadyshade.itch.io/starline-express-co)
   "StarLine Express - Сonnecting the Stars"  
@@ -31,13 +43,6 @@
 ### [TechRace](https://theshadyshade.itch.io/techrace)
   "Race upon the neon light!"  
   [GitHub Repository](https://github.com/The-Shady-Shade/TechRace)
-
-
-
-# Socials
-
-* **[Itch.io](https://theshadyshade.itch.io/)**   
-* **[Telegram](https://t.me/The_Shady_Shade)**
 
 
 
